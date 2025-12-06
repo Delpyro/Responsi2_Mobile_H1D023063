@@ -1,9 +1,4 @@
-[cite_start]Tentu, ini adalah draft **README.md** yang lengkap dan rapi sesuai dengan syarat pengumpulan[cite: 19, 20].
-
-Silakan salin teks di bawah ini ke dalam file `README.md` di root repository GitHub Anda. **Jangan lupa untuk mengisi bagian yang saya beri tanda kurung siku `[...]` seperti Shift dan Link Video.**
-
------
-
+https://github.com/USERNAME_GITHUB_ANDA/NAMA_REPO_ANDA/raw/main/video_demo.mp4
 # Responsi 2 Mobile Paket 2 (H1D023063)
 
 Aplikasi inventaris supermarket "Abimart" berbasis Mobile (Flutter) dan Backend (Laravel) untuk manajemen data barang kategori makanan.
