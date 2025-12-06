@@ -1,5 +1,9 @@
-https://github.com/USERNAME_GITHUB_ANDA/NAMA_REPO_ANDA/raw/main/video_demo.mp4
-# Responsi 2 Mobile Paket 2 (H1D023063)
+
+# Responsi 
+
+https://github.com/user-attachments/assets/8cadb1c2-f4a9-44ee-9eaa-3b636bf2ad92
+
+2 Mobile Paket 2 (H1D023063)
 
 Aplikasi inventaris supermarket "Abimart" berbasis Mobile (Flutter) dan Backend (Laravel) untuk manajemen data barang kategori makanan.
 
