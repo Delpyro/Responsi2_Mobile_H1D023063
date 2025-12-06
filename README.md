@@ -1,6 +1,10 @@
 
 # Responsi 
 
+https://github.com/user-attachments/assets/4acaced5-09cf-4bbf-a318-4704d2cf04a6
+
+
+
 https://github.com/user-attachments/assets/8cadb1c2-f4a9-44ee-9eaa-3b636bf2ad92
 
 2 Mobile Paket 2 (H1D023063)
